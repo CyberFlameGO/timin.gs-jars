@@ -1,2 +1,1 @@
-# timin.gs-jars
-timin.gs Jars
+# Jars with the https://timin.gs timings system built into.
